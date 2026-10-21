@@ -1,0 +1,6 @@
+{
+  "name": "Limitless English Connect",
+  "description": "Accessible English speaking practice, voice messaging, and live audio conversations designed for blind and low-vision learners.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
