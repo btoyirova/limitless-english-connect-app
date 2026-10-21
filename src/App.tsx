@@ -515,7 +515,7 @@ export default function App() {
               Limitless English Connect
             </span>
             <p className="text-xs text-slate-400 max-w-md">
-              Accessible beginner English speaking practice for blind and low-vision students. Connected directly to the Limitless English Wix learning program.
+              Accessible beginner English speaking practice for blind and low-vision students. Learn, practice, and grow with Limitless English Connect.
             </p>
           </div>
 
