@@ -97,7 +97,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
           <div className="flex items-center gap-2 font-medium">
             <span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" aria-hidden="true" />
-            <span>Connected to Limitless English (Wix Learning Space)</span>
+          <span>Connected to Limitless English Connect</span>
             <span className="hidden sm:inline text-blue-200">| Blind & Low-Vision Accessible Platform</span>
           </div>
 
